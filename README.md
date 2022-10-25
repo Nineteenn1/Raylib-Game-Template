@@ -10,9 +10,7 @@ First, clone the project with git
 git clone https://github.com/Nineteenn1/Raylib-Game-Template.git
 ```
 
-or click the "Use this template" button.
-
-![Use this template button](UseThisTemplateButton.png "Use this template button")
+or click the "Use this template" button above.
 
 
 If you want to see what the template game looks like, build the project with CMake using the following commands:
