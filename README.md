@@ -7,7 +7,7 @@ This repository is a template for a game in [raylib](https://github.com/raysan5/
 First, clone the project with git
 
 ```sh 
-git clone https://github.com/Nineteenn1/Raylib-Game-Template.git Game
+git clone --recursive https://github.com/Nineteenn1/Raylib-Game-Template.git Game
 ```
 
 or click the "Use this template" button above.
